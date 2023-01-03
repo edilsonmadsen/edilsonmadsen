@@ -1,4 +1,4 @@
-# Olá, me chamo Edilson Madsen
+# Olá, me chamo Edilson Madsen!
 # Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente estou estudando: Javascript,Typescript, CSS, Html, Angular e SQL. 
