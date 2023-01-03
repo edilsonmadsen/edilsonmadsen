@@ -1,7 +1,9 @@
-# Olá, me chamo Edilsoedilsonmadsenem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Edilson Madsen
+# Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente estou aprendendo: Javascript,Typescript, CSS, Html, Angular e SQL. 
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/edilsonmadsen/
+
 
 <div>
 <a href="https://github.com/edilsonmadsen">
@@ -9,10 +11,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonmadsen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
+          
+          
+          
 ## Contatos:
 
 <div>
