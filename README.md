@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou estudando: Javascript,Typescript, CSS, Html, Angular e SQL. 
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/edilsonmadsen/
 
-
 <div>
 <a href="https://github.com/edilsonmadsen">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonmadsen&layout=compact&langs_count=7&theme=dracula"/>
